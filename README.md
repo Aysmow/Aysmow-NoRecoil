@@ -7,7 +7,7 @@
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/Aysmow/Aysmow-NoRecoil)
 [![FiveM](https://img.shields.io/badge/FiveM-Cerulean-00a8ff.svg)](https://fivem.net)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Support](https://img.shields.io/badge/support-Discord-7289da.svg)](https://discord.gg)
+[![Support](https://img.shields.io/badge/support-Discord-7289da.svg)](https://discord.gg/omertarp)
 
 **Compatible avec ESX, QB-Core et Standalone**
 
