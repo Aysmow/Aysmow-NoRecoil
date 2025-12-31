@@ -1,4 +1,4 @@
--- Vérification du nom de la ressource
+
 Citizen.CreateThread(function()
     local resourceName = GetCurrentResourceName()
     print("[^1" .. resourceName .. "^7] Started!")
@@ -10,7 +10,7 @@ Citizen.CreateThread(function()
     end
 end)
 
--- Vérification de la version
+
 Citizen.CreateThread(function()
     Citizen.Wait(250)
 
@@ -41,3 +41,4 @@ Citizen.CreateThread(function()
         end
     end, 'GET')
 end)
+
