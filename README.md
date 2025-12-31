@@ -164,9 +164,9 @@ Config.startup = true  -- Afficher le message de démarrage (true/false)
 
 ## 🎮 Prévisualisation
 
-[![Preview](https://img.shields.io/badge/Preview-Click%20Here-red.svg)](https://streamable.com/7ufgkm)
+[![Preview](https://img.shields.io/badge/Preview-Click%20Here-red.svg)](https://streamable.com/4lp5fg)
 
-**Vidéo de démonstration :** [Cliquez ici pour voir la prévisualisation](https://streamable.com/7ufgkm)
+**Vidéo de démonstration :** [Cliquez ici pour voir la prévisualisation](https://streamable.com/4lp5fg)
 
 ---
 
