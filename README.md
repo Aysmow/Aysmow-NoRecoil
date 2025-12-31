@@ -186,9 +186,7 @@ Config.startup = true  -- Afficher le message de démarrage (true/false)
 **Aysmow**
 
 - GitHub: [@Aysmow](https://github.com/Aysmow)
-- Discord: [Rejoindre le serveur](https://discord.gg)
-
-**Crédits originaux :** [Cloud](https://github.com/Comethruuu)
+- Discord: [Rejoindre le serveur](https://discord.gg/omertarp)
 
 ---
 
