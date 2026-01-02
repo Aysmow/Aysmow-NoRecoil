@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Support](https://img.shields.io/badge/support-Discord-7289da.svg)](https://discord.gg/omertarp)
 
-**Compatible avec ESX, QB-Core et Standalone**
+**Compatible avec ESX, QB-core et Standalone**
 
 ---
 
